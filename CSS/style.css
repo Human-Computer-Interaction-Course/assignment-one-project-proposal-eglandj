@@ -10,6 +10,7 @@
     border: solid 4px #32cd32;
     background-color: black;
     opacity: 0.7;
+    padding: 50px;
 }
 
 
@@ -57,4 +58,5 @@ ol{
 p{
     margin-left: 3%;
     margin-right: 3%;
+    text-align: justify;
 }
